@@ -1,0 +1,12 @@
+{
+	"id": 33249997,
+	"epoch_second": 1657945565,
+	"problem_id": "typical90_bc",
+	"contest_id": "typical90",
+	"user_id": "chocoshop",
+	"language": "PHP (7.4.4)",
+	"point": 2,
+	"length": 552,
+	"result": "AC",
+	"execution_time": 2518
+}
