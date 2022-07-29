@@ -1,0 +1,12 @@
+{
+	"id": 33596590,
+	"epoch_second": 1659109158,
+	"problem_id": "sumitb2019_b",
+	"contest_id": "sumitrust2019",
+	"user_id": "chocoshop",
+	"language": "JavaScript (Node.js 12.16.1)",
+	"point": 200,
+	"length": 752,
+	"result": "AC",
+	"execution_time": 80
+}
